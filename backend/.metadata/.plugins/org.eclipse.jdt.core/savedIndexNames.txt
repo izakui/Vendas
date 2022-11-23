@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Izaquiel Oliveira\Desktop\projetos\dsmeta\backend\.metadata\.plugins\org.eclipse.jdt.core
+1723050215.index
+2729984199.index
+265713278.index
